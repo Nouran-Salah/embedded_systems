@@ -1,1 +1,1 @@
-# embedded_systems
+# embedded_systems_diploma
